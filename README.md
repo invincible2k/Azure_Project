@@ -9,4 +9,4 @@ There are two code files: 1) login.html (for the user interface)
 
 Web scraping.py scrapes customer reviews data from Amazon's website (url entered by user) and performs sentiment analysis on it to give an idea about positive/ negative reviews. 
 
-Public website url (https://saamira.azurewebsites.net)
+Public website url (https://saamira-yasmin.azurewebsites.net)
